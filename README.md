@@ -1,4 +1,4 @@
-# Datos categóricos Apareados
+# Datos Categóricos Apareados
 Este proyecto forma parte de un final para la materia "Estadística", **involucra** temas de datos categóricos apareados, la odds ratio, el relative risk y test de hipótesis para resolver problemas.
 
 El apartado teórico viene dado por [Datos Categóricos apareados](https://github.com/LautaroOchotorena/Datos-categoricos-apareados/blob/main/Datos%20Categ%C3%B3ricos%20apareados.pdf) en el cual se **exponen** teoremas, demostraciones y formas de solucionar diversos problemas estadísticos.
